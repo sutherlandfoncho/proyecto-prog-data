@@ -1,0 +1,289 @@
+route,conflict_phase,extra_distance_km,extra_fuel_cost_usd,route_revenue_usd,distance_increase_pct
+Abu Dhabi → Chicago,COVID-19 Collapse,0.0,0.0,166569.88733333335,0.0
+Abu Dhabi → Chicago,Gaza-Israel Conflict,0.0,0.0,304996.64428571425,0.0
+Abu Dhabi → Chicago,Pre-Iran Escalation,0.0,0.0,353414.5625,0.0
+Abu Dhabi → Chicago,Pre-Pandemic Baseline,0.0,0.0,212397.45285714284,0.0
+Abu Dhabi → Chicago,Recovery & Surge,0.0,0.0,273343.27444444445,0.0
+Abu Dhabi → Chicago,Stabilisation,0.0,0.0,321005.81,0.0
+Abu Dhabi → Chicago,US-Iran War Conflict,1410.25,5165.0475,242475.965,12.791383219954648
+Abu Dhabi → Chicago,Ukraine War Shock,0.0,0.0,364374.771,0.0
+Abu Dhabi → London,COVID-19 Collapse,0.0,0.0,81758.992,0.0
+Abu Dhabi → London,Gaza-Israel Conflict,0.0,0.0,150001.29214285713,0.0
+Abu Dhabi → London,Pre-Iran Escalation,0.0,0.0,166490.5525,0.0
+Abu Dhabi → London,Pre-Pandemic Baseline,0.0,0.0,104019.32285714286,0.0
+Abu Dhabi → London,Recovery & Surge,0.0,0.0,129656.80555555556,0.0
+Abu Dhabi → London,Stabilisation,0.0,0.0,157699.39333333334,0.0
+Abu Dhabi → London,US-Iran War Conflict,748.75,3049.27,183918.2075,13.81967515688446
+Abu Dhabi → London,Ukraine War Shock,0.0,0.0,158499.321,0.0
+Addis Ababa → Dubai,COVID-19 Collapse,0.0,0.0,50673.04266666667,0.0
+Addis Ababa → Dubai,Gaza-Israel Conflict,0.0,0.0,90123.15428571428,0.0
+Addis Ababa → Dubai,Pre-Iran Escalation,0.0,0.0,107341.43083333333,0.0
+Addis Ababa → Dubai,Pre-Pandemic Baseline,0.0,0.0,63770.111428571436,0.0
+Addis Ababa → Dubai,Recovery & Surge,0.0,0.0,88474.29555555555,0.0
+Addis Ababa → Dubai,Stabilisation,0.0,0.0,92306.10555555555,0.0
+Addis Ababa → Dubai,US-Iran War Conflict,588.25,2761.91,139833.9775,17.403846153846153
+Addis Ababa → Dubai,Ukraine War Shock,0.0,0.0,113789.46100000001,0.0
+Amsterdam → Dubai,COVID-19 Collapse,0.0,0.0,83085.42466666666,0.0
+Amsterdam → Dubai,Gaza-Israel Conflict,0.0,0.0,144547.3392857143,0.0
+Amsterdam → Dubai,Pre-Iran Escalation,0.0,0.0,170323.9325,0.0
+Amsterdam → Dubai,Pre-Pandemic Baseline,0.0,0.0,107938.50857142858,0.0
+Amsterdam → Dubai,Recovery & Surge,0.0,0.0,128359.1511111111,0.0
+Amsterdam → Dubai,Stabilisation,0.0,0.0,151399.04777777777,0.0
+Amsterdam → Dubai,US-Iran War Conflict,790.75,3172.755,213370.2075,15.001897173211916
+Amsterdam → Dubai,Ukraine War Shock,0.0,0.0,180353.875,0.0
+Bahrain → London,COVID-19 Collapse,0.0,0.0,77616.324,0.0
+Bahrain → London,Gaza-Israel Conflict,0.0,0.0,137198.47785714286,0.0
+Bahrain → London,Pre-Iran Escalation,0.0,0.0,170220.52416666667,0.0
+Bahrain → London,Pre-Pandemic Baseline,0.0,0.0,102322.52214285715,0.0
+Bahrain → London,Recovery & Surge,0.0,0.0,120023.27333333333,0.0
+Bahrain → London,Stabilisation,0.0,0.0,154621.7277777778,0.0
+Bahrain → London,US-Iran War Conflict,586.5,2326.65,275473.27,11.432748538011696
+Bahrain → London,Ukraine War Shock,0.0,0.0,174664.83599999998,0.0
+Bangkok → London,COVID-19 Collapse,0.0,0.0,140594.73066666667,0.0
+Bangkok → London,Gaza-Israel Conflict,0.0,0.0,267147.99571428576,0.0
+Bangkok → London,Pre-Iran Escalation,0.0,0.0,298460.9725,0.0
+Bangkok → London,Pre-Pandemic Baseline,0.0,0.0,183297.1564285714,0.0
+Bangkok → London,Recovery & Surge,0.0,0.0,227855.80444444445,0.0
+Bangkok → London,Stabilisation,0.0,0.0,259736.70444444442,0.0
+Bangkok → London,US-Iran War Conflict,1600.0,6237.94,243000.8625,16.764459346186086
+Bangkok → London,Ukraine War Shock,0.0,0.0,313216.882,0.0
+Cairo → Dubai,COVID-19 Collapse,0.0,0.0,36851.924,0.0
+Cairo → Dubai,Gaza-Israel Conflict,0.0,0.0,63368.6,0.0
+Cairo → Dubai,Pre-Iran Escalation,0.0,0.0,74002.29416666667,0.0
+Cairo → Dubai,Pre-Pandemic Baseline,0.0,0.0,46873.21142857143,0.0
+Cairo → Dubai,Recovery & Surge,0.0,0.0,57768.792222222226,0.0
+Cairo → Dubai,Stabilisation,0.0,0.0,67922.82555555555,0.0
+Cairo → Dubai,US-Iran War Conflict,0.0,0.0,54524.0,0.0
+Cairo → Dubai,Ukraine War Shock,0.0,0.0,70848.334,0.0
+Doha → Kuala Lumpur,COVID-19 Collapse,0.0,0.0,102179.92066666667,0.0
+Doha → Kuala Lumpur,Gaza-Israel Conflict,0.0,0.0,176908.31857142856,0.0
+Doha → Kuala Lumpur,Pre-Iran Escalation,0.0,0.0,204680.25916666666,0.0
+Doha → Kuala Lumpur,Pre-Pandemic Baseline,0.0,0.0,133107.1507142857,0.0
+Doha → Kuala Lumpur,Recovery & Surge,0.0,0.0,160638.7511111111,0.0
+Doha → Kuala Lumpur,Stabilisation,0.0,0.0,188972.12666666668,0.0
+Doha → Kuala Lumpur,US-Iran War Conflict,1198.25,4857.6449999999995,255093.29499999998,18.959651898734176
+Doha → Kuala Lumpur,Ukraine War Shock,0.0,0.0,207186.993,0.0
+Doha → London,COVID-19 Collapse,0.0,0.0,80146.26266666666,0.0
+Doha → London,Gaza-Israel Conflict,0.0,0.0,144731.2942857143,0.0
+Doha → London,Pre-Iran Escalation,0.0,0.0,165169.185,0.0
+Doha → London,Pre-Pandemic Baseline,0.0,0.0,102946.98357142857,0.0
+Doha → London,Recovery & Surge,0.0,0.0,132500.72444444444,0.0
+Doha → London,Stabilisation,0.0,0.0,156126.69,0.0
+Doha → London,US-Iran War Conflict,869.75,3706.4825,0.0,16.302717900656045
+Doha → London,Ukraine War Shock,0.0,0.0,173549.58500000002,0.0
+Doha → New York,COVID-19 Collapse,0.0,0.0,180090.84866666666,0.0
+Doha → New York,Gaza-Israel Conflict,0.0,0.0,300703.60714285716,0.0
+Doha → New York,Pre-Iran Escalation,0.0,0.0,359293.215,0.0
+Doha → New York,Pre-Pandemic Baseline,0.0,0.0,221296.36642857143,0.0
+Doha → New York,Recovery & Surge,0.0,0.0,270458.4011111111,0.0
+Doha → New York,Stabilisation,0.0,0.0,321726.0011111111,0.0
+Doha → New York,US-Iran War Conflict,1593.75,6255.2325,461591.38749999995,14.38013173328521
+Doha → New York,Ukraine War Shock,0.0,0.0,351805.91000000003,0.0
+Doha → Tokyo,COVID-19 Collapse,0.0,0.0,125400.484,0.0
+Doha → Tokyo,Gaza-Israel Conflict,0.0,0.0,216504.76642857143,0.0
+Doha → Tokyo,Pre-Iran Escalation,0.0,0.0,259296.54249999998,0.0
+Doha → Tokyo,Pre-Pandemic Baseline,0.0,0.0,156645.79357142857,0.0
+Doha → Tokyo,Recovery & Surge,0.0,0.0,185880.43,0.0
+Doha → Tokyo,Stabilisation,0.0,0.0,235749.78777777776,0.0
+Doha → Tokyo,US-Iran War Conflict,1414.0,5696.355,336100.5375,17.748211371909125
+Doha → Tokyo,Ukraine War Shock,0.0,0.0,236527.813,0.0
+Dubai → Bangkok,COVID-19 Collapse,0.0,0.0,73163.38866666667,0.0
+Dubai → Bangkok,Gaza-Israel Conflict,0.0,0.0,138288.30357142858,0.0
+Dubai → Bangkok,Pre-Iran Escalation,0.0,0.0,154871.40416666667,0.0
+Dubai → Bangkok,Pre-Pandemic Baseline,0.0,0.0,98521.49714285714,0.0
+Dubai → Bangkok,Recovery & Surge,0.0,0.0,121671.04666666666,0.0
+Dubai → Bangkok,Stabilisation,0.0,0.0,142978.89222222223,0.0
+Dubai → Bangkok,US-Iran War Conflict,682.25,2762.3125,256166.38,13.909276248725789
+Dubai → Bangkok,Ukraine War Shock,0.0,0.0,154316.377,0.0
+Dubai → Cape Town,COVID-19 Collapse,0.0,0.0,122452.854,0.0
+Dubai → Cape Town,Gaza-Israel Conflict,0.0,0.0,217549.41,0.0
+Dubai → Cape Town,Pre-Iran Escalation,0.0,0.0,249133.91,0.0
+Dubai → Cape Town,Pre-Pandemic Baseline,0.0,0.0,160376.6842857143,0.0
+Dubai → Cape Town,Recovery & Surge,0.0,0.0,197907.19333333333,0.0
+Dubai → Cape Town,Stabilisation,0.0,0.0,223358.97,0.0
+Dubai → Cape Town,US-Iran War Conflict,1167.75,4706.049999999999,350588.305,14.596875
+Dubai → Cape Town,Ukraine War Shock,0.0,0.0,230434.279,0.0
+Dubai → Colombo,COVID-19 Collapse,0.0,0.0,40127.58066666666,0.0
+Dubai → Colombo,Gaza-Israel Conflict,0.0,0.0,75747.12,0.0
+Dubai → Colombo,Pre-Iran Escalation,0.0,0.0,84897.565,0.0
+Dubai → Colombo,Pre-Pandemic Baseline,0.0,0.0,53316.53357142857,0.0
+Dubai → Colombo,Recovery & Surge,0.0,0.0,62797.928888888884,0.0
+Dubai → Colombo,Stabilisation,0.0,0.0,73527.39777777778,0.0
+Dubai → Colombo,US-Iran War Conflict,0.0,0.0,26049.5325,0.0
+Dubai → Colombo,Ukraine War Shock,0.0,0.0,91266.676,0.0
+Dubai → Delhi,COVID-19 Collapse,0.0,0.0,33836.189999999995,0.0
+Dubai → Delhi,Gaza-Israel Conflict,0.0,0.0,58756.79214285714,0.0
+Dubai → Delhi,Pre-Iran Escalation,0.0,0.0,70685.9825,0.0
+Dubai → Delhi,Pre-Pandemic Baseline,0.0,0.0,43634.57142857143,0.0
+Dubai → Delhi,Recovery & Surge,0.0,0.0,53216.484444444446,0.0
+Dubai → Delhi,Stabilisation,0.0,0.0,61908.868888888894,0.0
+Dubai → Delhi,US-Iran War Conflict,0.0,0.0,59933.1875,0.0
+Dubai → Delhi,Ukraine War Shock,0.0,0.0,63177.30699999999,0.0
+Dubai → Frankfurt,COVID-19 Collapse,0.0,0.0,75964.246,0.0
+Dubai → Frankfurt,Gaza-Israel Conflict,0.0,0.0,133942.6207142857,0.0
+Dubai → Frankfurt,Pre-Iran Escalation,0.0,0.0,151634.74083333334,0.0
+Dubai → Frankfurt,Pre-Pandemic Baseline,0.0,0.0,98659.06785714286,0.0
+Dubai → Frankfurt,Recovery & Surge,0.0,0.0,126411.78999999998,0.0
+Dubai → Frankfurt,Stabilisation,0.0,0.0,147056.63333333333,0.0
+Dubai → Frankfurt,US-Iran War Conflict,1047.0,4534.4425,212112.39750000002,21.015656362906462
+Dubai → Frankfurt,Ukraine War Shock,0.0,0.0,163688.635,0.0
+Dubai → Islamabad,COVID-19 Collapse,0.0,0.0,28057.17,0.0
+Dubai → Islamabad,Gaza-Israel Conflict,0.0,0.0,50774.67142857143,0.0
+Dubai → Islamabad,Pre-Iran Escalation,0.0,0.0,58485.64083333333,0.0
+Dubai → Islamabad,Pre-Pandemic Baseline,0.0,0.0,37666.91785714286,0.0
+Dubai → Islamabad,Recovery & Surge,0.0,0.0,43350.317777777775,0.0
+Dubai → Islamabad,Stabilisation,0.0,0.0,53934.52333333334,0.0
+Dubai → Islamabad,US-Iran War Conflict,0.0,0.0,49483.990000000005,0.0
+Dubai → Islamabad,Ukraine War Shock,0.0,0.0,59954.344999999994,0.0
+Dubai → Karachi,COVID-19 Collapse,0.0,0.0,19351.83933333333,0.0
+Dubai → Karachi,Gaza-Israel Conflict,0.0,0.0,34170.124285714286,0.0
+Dubai → Karachi,Pre-Iran Escalation,0.0,0.0,39308.32833333333,0.0
+Dubai → Karachi,Pre-Pandemic Baseline,0.0,0.0,25079.476428571426,0.0
+Dubai → Karachi,Recovery & Surge,0.0,0.0,32760.863333333335,0.0
+Dubai → Karachi,Stabilisation,0.0,0.0,34168.98777777778,0.0
+Dubai → Karachi,US-Iran War Conflict,0.0,0.0,48081.8725,0.0
+Dubai → Karachi,Ukraine War Shock,0.0,0.0,35567.462,0.0
+Dubai → London,COVID-19 Collapse,0.0,0.0,86527.646,0.0
+Dubai → London,Gaza-Israel Conflict,0.0,0.0,152714.68571428573,0.0
+Dubai → London,Pre-Iran Escalation,0.0,0.0,172793.92500000002,0.0
+Dubai → London,Pre-Pandemic Baseline,0.0,0.0,111203.27928571428,0.0
+Dubai → London,Recovery & Surge,0.0,0.0,123426.14666666667,0.0
+Dubai → London,Stabilisation,0.0,0.0,157519.9088888889,0.0
+Dubai → London,US-Iran War Conflict,596.75,2360.2425,54858.685,10.85
+Dubai → London,Ukraine War Shock,0.0,0.0,144802.474,0.0
+Dubai → Nairobi,COVID-19 Collapse,0.0,0.0,52771.928,0.0
+Dubai → Nairobi,Gaza-Israel Conflict,0.0,0.0,93391.56714285714,0.0
+Dubai → Nairobi,Pre-Iran Escalation,0.0,0.0,107412.97166666666,0.0
+Dubai → Nairobi,Pre-Pandemic Baseline,0.0,0.0,68676.07142857143,0.0
+Dubai → Nairobi,Recovery & Surge,0.0,0.0,78784.27555555555,0.0
+Dubai → Nairobi,Stabilisation,0.0,0.0,95622.72444444445,0.0
+Dubai → Nairobi,US-Iran War Conflict,508.0,2289.205,172343.305,14.98967246975509
+Dubai → Nairobi,Ukraine War Shock,0.0,0.0,107938.01000000001,0.0
+Dubai → New York,COVID-19 Collapse,0.0,0.0,169093.24866666665,0.0
+Dubai → New York,Gaza-Israel Conflict,0.0,0.0,308133.52499999997,0.0
+Dubai → New York,Pre-Iran Escalation,0.0,0.0,358268.4583333333,0.0
+Dubai → New York,Pre-Pandemic Baseline,0.0,0.0,208642.88214285715,0.0
+Dubai → New York,Recovery & Surge,0.0,0.0,272461.93555555557,0.0
+Dubai → New York,Stabilisation,0.0,0.0,286512.0022222222,0.0
+Dubai → New York,US-Iran War Conflict,1801.0,7000.5625,111132.6075,16.372727272727275
+Dubai → New York,Ukraine War Shock,0.0,0.0,314795.69899999996,0.0
+Dubai → Singapore,COVID-19 Collapse,0.0,0.0,95014.80133333334,0.0
+Dubai → Singapore,Gaza-Israel Conflict,0.0,0.0,159883.99285714285,0.0
+Dubai → Singapore,Pre-Iran Escalation,0.0,0.0,183864.57833333334,0.0
+Dubai → Singapore,Pre-Pandemic Baseline,0.0,0.0,110587.91214285714,0.0
+Dubai → Singapore,Recovery & Surge,0.0,0.0,142473.9822222222,0.0
+Dubai → Singapore,Stabilisation,0.0,0.0,171290.53999999998,0.0
+Dubai → Singapore,US-Iran War Conflict,827.5,2933.7200000000003,220250.675,14.157399486740804
+Dubai → Singapore,Ukraine War Shock,0.0,0.0,199548.37,0.0
+Dubai → Sydney,COVID-19 Collapse,0.0,0.0,184771.80733333333,0.0
+Dubai → Sydney,Gaza-Israel Conflict,0.0,0.0,327891.5585714286,0.0
+Dubai → Sydney,Pre-Iran Escalation,0.0,0.0,358326.9283333333,0.0
+Dubai → Sydney,Pre-Pandemic Baseline,0.0,0.0,232750.87785714286,0.0
+Dubai → Sydney,Recovery & Surge,0.0,0.0,286097.1433333333,0.0
+Dubai → Sydney,Stabilisation,0.0,0.0,343642.5077777778,0.0
+Dubai → Sydney,US-Iran War Conflict,1596.0,6123.33,521658.0625,13.29667583104224
+Dubai → Sydney,Ukraine War Shock,0.0,0.0,381868.34699999995,0.0
+Frankfurt → Dubai,COVID-19 Collapse,0.0,0.0,76720.17333333334,0.0
+Frankfurt → Dubai,Gaza-Israel Conflict,0.0,0.0,140267.47857142857,0.0
+Frankfurt → Dubai,Pre-Iran Escalation,0.0,0.0,160050.3675,0.0
+Frankfurt → Dubai,Pre-Pandemic Baseline,0.0,0.0,94033.68428571429,0.0
+Frankfurt → Dubai,Recovery & Surge,0.0,0.0,121461.64777777779,0.0
+Frankfurt → Dubai,Stabilisation,0.0,0.0,145248.26444444444,0.0
+Frankfurt → Dubai,US-Iran War Conflict,817.0,3313.7025000000003,126725.1825,16.39903653151345
+Frankfurt → Dubai,Ukraine War Shock,0.0,0.0,153508.389,0.0
+Hong Kong → London,COVID-19 Collapse,0.0,0.0,154751.36466666666,0.0
+Hong Kong → London,Gaza-Israel Conflict,0.0,0.0,265300.4257142857,0.0
+Hong Kong → London,Pre-Iran Escalation,0.0,0.0,304855.21166666667,0.0
+Hong Kong → London,Pre-Pandemic Baseline,0.0,0.0,189583.92857142858,0.0
+Hong Kong → London,Recovery & Surge,0.0,0.0,224895.40333333332,0.0
+Hong Kong → London,Stabilisation,0.0,0.0,277633.7211111111,0.0
+Hong Kong → London,US-Iran War Conflict,1218.0,4737.450000000001,504798.42999999993,12.629614267938614
+Hong Kong → London,Ukraine War Shock,0.0,0.0,312237.897,0.0
+Istanbul → Dubai,COVID-19 Collapse,0.0,0.0,40353.602666666666,0.0
+Istanbul → Dubai,Gaza-Israel Conflict,0.0,0.0,73198.46142857142,0.0
+Istanbul → Dubai,Pre-Iran Escalation,0.0,0.0,84322.065,0.0
+Istanbul → Dubai,Pre-Pandemic Baseline,0.0,0.0,50553.05071428571,0.0
+Istanbul → Dubai,Recovery & Surge,0.0,0.0,65665.26777777779,0.0
+Istanbul → Dubai,Stabilisation,0.0,0.0,74032.81777777777,0.0
+Istanbul → Dubai,US-Iran War Conflict,0.0,0.0,100597.41500000001,0.0
+Istanbul → Dubai,Ukraine War Shock,0.0,0.0,76138.559,0.0
+Kuwait City → London,COVID-19 Collapse,0.0,0.0,69255.74,0.0
+Kuwait City → London,Gaza-Israel Conflict,0.0,0.0,123507.72714285714,0.0
+Kuwait City → London,Pre-Iran Escalation,0.0,0.0,149974.435,0.0
+Kuwait City → London,Pre-Pandemic Baseline,0.0,0.0,90209.33857142857,0.0
+Kuwait City → London,Recovery & Surge,0.0,0.0,109254.82222222222,0.0
+Kuwait City → London,Stabilisation,0.0,0.0,131056.61444444445,0.0
+Kuwait City → London,US-Iran War Conflict,810.0,3722.7675,250266.29,17.490822716475925
+Kuwait City → London,Ukraine War Shock,0.0,0.0,160586.40600000002,0.0
+London → Dubai,COVID-19 Collapse,0.0,0.0,81576.48866666667,0.0
+London → Dubai,Gaza-Israel Conflict,0.0,0.0,148495.15857142856,0.0
+London → Dubai,Pre-Iran Escalation,0.0,0.0,173745.3125,0.0
+London → Dubai,Pre-Pandemic Baseline,0.0,0.0,107962.52285714286,0.0
+London → Dubai,Recovery & Surge,0.0,0.0,125107.88777777778,0.0
+London → Dubai,Stabilisation,0.0,0.0,163965.99666666667,0.0
+London → Dubai,US-Iran War Conflict,767.25,3041.995,155871.54499999998,13.95
+London → Dubai,Ukraine War Shock,0.0,0.0,185866.186,0.0
+Mumbai → London,COVID-19 Collapse,0.0,0.0,105727.26733333334,0.0
+Mumbai → London,Gaza-Israel Conflict,0.0,0.0,196767.9085714286,0.0
+Mumbai → London,Pre-Iran Escalation,0.0,0.0,227050.62416666668,0.0
+Mumbai → London,Pre-Pandemic Baseline,0.0,0.0,142363.54857142858,0.0
+Mumbai → London,Recovery & Surge,0.0,0.0,168575.72222222222,0.0
+Mumbai → London,Stabilisation,0.0,0.0,207016.84555555554,0.0
+Mumbai → London,US-Iran War Conflict,1272.5,5242.4400000000005,118251.765,17.7031163049527
+Mumbai → London,Ukraine War Shock,0.0,0.0,228769.48700000002,0.0
+Muscat → London,COVID-19 Collapse,0.0,0.0,86612.34933333333,0.0
+Muscat → London,Gaza-Israel Conflict,0.0,0.0,156893.7142857143,0.0
+Muscat → London,Pre-Iran Escalation,0.0,0.0,175499.6925,0.0
+Muscat → London,Pre-Pandemic Baseline,0.0,0.0,110628.575,0.0
+Muscat → London,Recovery & Surge,0.0,0.0,133761.66777777777,0.0
+Muscat → London,Stabilisation,0.0,0.0,161337.1688888889,0.0
+Muscat → London,US-Iran War Conflict,907.75,3864.295,165614.3,16.235914863172955
+Muscat → London,Ukraine War Shock,0.0,0.0,187575.422,0.0
+New York → Dubai,COVID-19 Collapse,0.0,0.0,171974.23133333336,0.0
+New York → Dubai,Gaza-Israel Conflict,0.0,0.0,297758.52357142855,0.0
+New York → Dubai,Pre-Iran Escalation,0.0,0.0,374934.6275,0.0
+New York → Dubai,Pre-Pandemic Baseline,0.0,0.0,209703.50928571427,0.0
+New York → Dubai,Recovery & Surge,0.0,0.0,279352.88666666666,0.0
+New York → Dubai,Stabilisation,0.0,0.0,309972.49333333335,0.0
+New York → Dubai,US-Iran War Conflict,1709.5,6634.487499999999,449481.04500000004,15.484601449275361
+New York → Dubai,Ukraine War Shock,0.0,0.0,325751.83999999997,0.0
+Paris → Dubai,COVID-19 Collapse,0.0,0.0,83862.69266666665,0.0
+Paris → Dubai,Gaza-Israel Conflict,0.0,0.0,148234.1642857143,0.0
+Paris → Dubai,Pre-Iran Escalation,0.0,0.0,164171.83166666667,0.0
+Paris → Dubai,Pre-Pandemic Baseline,0.0,0.0,100898.34142857142,0.0
+Paris → Dubai,Recovery & Surge,0.0,0.0,127228.76111111112,0.0
+Paris → Dubai,Stabilisation,0.0,0.0,150252.01666666666,0.0
+Paris → Dubai,US-Iran War Conflict,803.25,3232.6575,88771.41,15.265108323831242
+Paris → Dubai,Ukraine War Shock,0.0,0.0,149644.852,0.0
+Riyadh → London,COVID-19 Collapse,0.0,0.0,71775.94466666666,0.0
+Riyadh → London,Gaza-Israel Conflict,0.0,0.0,128820.39214285715,0.0
+Riyadh → London,Pre-Iran Escalation,0.0,0.0,145322.16333333333,0.0
+Riyadh → London,Pre-Pandemic Baseline,0.0,0.0,92754.375,0.0
+Riyadh → London,Recovery & Surge,0.0,0.0,114126.10555555555,0.0
+Riyadh → London,Stabilisation,0.0,0.0,131189.2788888889,0.0
+Riyadh → London,US-Iran War Conflict,836.75,3843.88,118995.62,17.93291898842692
+Riyadh → London,Ukraine War Shock,0.0,0.0,138743.492,0.0
+Seoul → Dubai,COVID-19 Collapse,0.0,0.0,105697.29199999999,0.0
+Seoul → Dubai,Gaza-Israel Conflict,0.0,0.0,184045.63999999998,0.0
+Seoul → Dubai,Pre-Iran Escalation,0.0,0.0,216335.04083333336,0.0
+Seoul → Dubai,Pre-Pandemic Baseline,0.0,0.0,131666.54857142858,0.0
+Seoul → Dubai,Recovery & Surge,0.0,0.0,165082.9322222222,0.0
+Seoul → Dubai,Stabilisation,0.0,0.0,191711.33666666667,0.0
+Seoul → Dubai,US-Iran War Conflict,1238.0,5311.3675,254995.07,18.157817541801116
+Seoul → Dubai,Ukraine War Shock,0.0,0.0,225111.96800000002,0.0
+Sharjah → Beirut,COVID-19 Collapse,0.0,0.0,33114.358,0.0
+Sharjah → Beirut,Gaza-Israel Conflict,0.0,0.0,60182.735,0.0
+Sharjah → Beirut,Pre-Iran Escalation,0.0,0.0,68449.435,0.0
+Sharjah → Beirut,Pre-Pandemic Baseline,0.0,0.0,41528.695,0.0
+Sharjah → Beirut,Recovery & Surge,0.0,0.0,53028.49333333333,0.0
+Sharjah → Beirut,Stabilisation,0.0,0.0,60477.374444444446,0.0
+Sharjah → Beirut,US-Iran War Conflict,0.0,0.0,114490.4725,0.0
+Sharjah → Beirut,Ukraine War Shock,0.0,0.0,70516.853,0.0
+Singapore → London,COVID-19 Collapse,0.0,0.0,165042.63333333333,0.0
+Singapore → London,Gaza-Israel Conflict,0.0,0.0,294683.09500000003,0.0
+Singapore → London,Pre-Iran Escalation,0.0,0.0,359805.56083333335,0.0
+Singapore → London,Pre-Pandemic Baseline,0.0,0.0,209685.7164285714,0.0
+Singapore → London,Recovery & Surge,0.0,0.0,268042.5,0.0
+Singapore → London,Stabilisation,0.0,0.0,311396.3066666667,0.0
+Singapore → London,US-Iran War Conflict,1229.25,4576.280000000001,441986.86,11.376677464136973
+Singapore → London,Ukraine War Shock,0.0,0.0,346968.12,0.0
