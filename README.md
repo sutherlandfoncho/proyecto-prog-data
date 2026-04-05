@@ -4,21 +4,29 @@ Programación ciencia de datos
 
 # Análisis de Impacto Operacional y Económico: Rutas Aéreas en Conflictos Geopolíticos
 
-Este proyecto analiza cómo las distintas fases de conflictos geopolíticos (específicamente enfocados en Medio Oriente y periodos de pandemia) afectan la rentabilidad y la logística de las aerolíneas comerciales.
-
+Este proyecto analiza cómo las distintas fases de conflictos geopolíticos (enfocados en Medio Oriente) y periodos de crisis sanitaria afectan la rentabilidad y logística de las aerolíneas comerciales. Se enfoca en cuantificar desvíos de rutas, variaciones en costos de combustible e ingresos por trayecto.
 ## 🚀 Guía de Instalación y Reproducibilidad
 
-Este proyecto ha sido configurado para ser 100% reproducible mediante entornos virtuales.
+El proyecto utiliza entornos aislados para garantizar que las dependencias no generen conflictos con el sistema local y que los resultados sean consistentes en cualquier máquina.
 
-### Opción A: Python VENV (Recomendado)
+### Opción A: Python VENV (Recomendado para entornos ligeros)
+Ideal si ya tienes Python instalado. Este método descarga las librerías necesarias en una carpeta local .venv.
 1. Clonar el repositorio.
 2. En la terminal, dentro de la carpeta:
    ```bash
-   python -m venv .venv
-   .venv\Scripts\activate
-   pip install -r requirements.txt
+   # creamos el entorno
+   python -m venv .venv  
+   # activamos el entorno
+    # En Windows:
+    .venv\Scripts\activate 
+    # En Mac/Linux:
+    source .venv/bin/activate
 
-### Opción B: Conda
+   # instalamos las dependencias 
+   pip install -r requirements.txt 
+
+### Opción B: Conda (Recomendado para análisis de datos avanzado)
+Ideal para gestionar versiones de Python y librerías científicas de forma robusta.
     conda env create -f environment.yml
     conda activate scy1101_route
 
@@ -41,12 +49,14 @@ src/: Código modular en Python (validation.py).
 
 outputs/: Tablas (.csv) y figuras (.png) resultantes del análisis.
 
-### Equipo y Roles
-Diego: Especialista en Limpieza y Estándares de Datos.
+### Flujo de trabajo
+El proyecto se divide en tres bloques técnicos para asegurar la trazabilidad del dato:
 
-Alfonso: Analista de Datos y Visualización Estadística.
+Data Engineering (Diego): Responsable de la ingesta y auditoría inicial. Se asegura de que el dato sea confiable y estandarizado.
 
-Cristóbal: QA Engineer, Gestión de Entornos y Reproducibilidad.
+Data Analysis (Alfonso): Encargado de convertir el dato limpio en insights. Crea KPIs como extra_fuel_cost y visualiza tendencias económicas.
+
+QA & DevOps (Cristóbal): Garantiza que el proyecto sea reproducible. Implementa validaciones automáticas y gestiona la configuración de los entornos virtuales.
 
 ---
 
@@ -54,7 +64,7 @@ Cristóbal: QA Engineer, Gestión de Entornos y Reproducibilidad.
 Se ha completado el proceso de validación del proyecto "Análisis de Rutas Aéreas". El flujo de datos es consistente desde la limpieza inicial hasta la generación de gráficos finales.
 
 ## 2. Resultados de la Auditoría Técnica
-Tras ejecutar el notebook `03_validacion_entorno_y_reproducibilidad.ipynb`, se reportan los siguientes hitos:
+Tras ejecutar el notebook `03_validacion.ipynb`, se reportan los siguientes hitos:
 
  **Integridad de Datos (Checksum):** El archivo `route_cost_impact_limpio.csv` posee el hash `917b25f8fb1858249d875daeea3eeca3`, confirmando que no hubo alteraciones externas.
  **Validación de Reglas de Negocio:** * **Distancia Consistente:** PASÓ (Actual - Original = Extra).
