@@ -1,3 +1,4 @@
+
 # proyecto-prog-data
 Programación ciencia de datos
 
@@ -10,8 +11,8 @@ Este proyecto analiza cómo las distintas fases de conflictos geopolíticos (esp
 Este proyecto ha sido configurado para ser 100% reproducible mediante entornos virtuales.
 
 ### Opción A: Python VENV (Recomendado)
-1 Clonar el repositorio.
-2 En la terminal, dentro de la carpeta:
+1. Clonar el repositorio.
+2. En la terminal, dentro de la carpeta:
    ```bash
    python -m venv .venv
    .venv\Scripts\activate

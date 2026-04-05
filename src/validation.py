@@ -41,7 +41,7 @@ def check_calidad_basica(df):
     }
 
 
-""""Este código automatiza la auditoría del proyecto. 
-Primero, el Checksum garantiza que los archivos son auténticos (Integridad). 
-Segundo, las Reglas de Negocio aseguran que los datos financieros y operacionales son coherentes entre sí (Consistencia). 
+"""Este código automatiza la auditoría del proyecto.
+Primero, el Checksum garantiza que los archivos son auténticos (Integridad).
+Segundo, las Reglas de Negocio aseguran que los datos financieros y operacionales son coherentes entre sí (Consistencia).
 Y tercero, el Check de Calidad monitorea que no hayamos introducido ruido como duplicados o nulos durante el proceso."""
