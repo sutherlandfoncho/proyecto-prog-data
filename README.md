@@ -49,12 +49,6 @@ Cristóbal: QA Engineer, Gestión de Entornos y Reproducibilidad.
 
 ---
 
-## 2. Archivo: `docs/informe_tecnico.md` (Actualizado)
-
-```markdown
-# Informe de Consolidación y Reproducibilidad Técnica
-**Responsable:** Cristóbal
-
 ## 1. Resumen Ejecutivo de Validación
 Se ha completado el proceso de validación del proyecto "Análisis de Rutas Aéreas". El flujo de datos es consistente desde la limpieza inicial hasta la generación de gráficos finales.
 
@@ -62,9 +56,9 @@ Se ha completado el proceso de validación del proyecto "Análisis de Rutas Aér
 Tras ejecutar el notebook `03_validacion_entorno_y_reproducibilidad.ipynb`, se reportan los siguientes hitos:
 
 * **Integridad de Datos (Checksum):** El archivo `route_cost_impact_limpio.csv` posee el hash `917b25f8fb1858249d875daeea3eeca3`, confirmando que no hubo alteraciones externas.
-* **Validación de Reglas de Negocio:** * **Distancia Consistente:** ✅ PASÓ (Actual - Original = Extra).
-    * **Ingresos Consistentes:** ✅ PASÓ (Ticket * Pasajeros = Revenue).
-    * **Lógica de Desvíos:** ✅ PASÓ (Reroute implica Extra Distance > 0).
+* **Validación de Reglas de Negocio:** * **Distancia Consistente:** PASÓ (Actual - Original = Extra).
+    * **Ingresos Consistentes:** PASÓ (Ticket * Pasajeros = Revenue).
+    * **Lógica de Desvíos:** PASÓ (Reroute implica Extra Distance > 0).
 * **Consolidación de Filas:** Se mantiene el universo de **3,132 registros**, asegurando que no hubo pérdida de información crítica tras las transformaciones.
 
 ## 3. Justificación del Entorno Virtual
