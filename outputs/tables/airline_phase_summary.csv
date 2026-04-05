@@ -1,0 +1,177 @@
+airline,conflict_phase,extra_distance_km,extra_fuel_cost_usd,route_revenue_usd,is_disrupted
+Air Arabia,COVID-19 Collapse,0.0,0.0,33114.358,0.0
+Air Arabia,Gaza-Israel Conflict,0.0,0.0,60182.735,0.0
+Air Arabia,Pre-Iran Escalation,0.0,0.0,68449.435,0.0
+Air Arabia,Pre-Pandemic Baseline,0.0,0.0,41528.695,0.0
+Air Arabia,Recovery & Surge,0.0,0.0,53028.49333333333,0.0
+Air Arabia,Stabilisation,0.0,0.0,60477.374444444446,0.0
+Air Arabia,US-Iran War Conflict,0.0,0.0,114490.4725,0.0
+Air Arabia,Ukraine War Shock,0.0,0.0,70516.853,0.0
+Air France,COVID-19 Collapse,0.0,0.0,83862.69266666665,0.0
+Air France,Gaza-Israel Conflict,0.0,0.0,148234.1642857143,0.0
+Air France,Pre-Iran Escalation,0.0,0.0,164171.83166666667,0.0
+Air France,Pre-Pandemic Baseline,0.0,0.0,100898.34142857142,0.0
+Air France,Recovery & Surge,0.0,0.0,127228.76111111112,0.0
+Air France,Stabilisation,0.0,0.0,150252.01666666666,0.0
+Air France,US-Iran War Conflict,803.25,3232.6575,88771.41,1.0
+Air France,Ukraine War Shock,0.0,0.0,149644.852,0.1
+Air India,COVID-19 Collapse,0.0,0.0,105727.26733333334,0.0
+Air India,Gaza-Israel Conflict,0.0,0.0,196767.9085714286,0.0
+Air India,Pre-Iran Escalation,0.0,0.0,227050.62416666668,0.0
+Air India,Pre-Pandemic Baseline,0.0,0.0,142363.54857142858,0.0
+Air India,Recovery & Surge,0.0,0.0,168575.72222222222,0.0
+Air India,Stabilisation,0.0,0.0,207016.84555555554,0.0
+Air India,US-Iran War Conflict,1272.5,5242.4400000000005,118251.765,1.0
+Air India,Ukraine War Shock,0.0,0.0,228769.48700000002,0.0
+British Airways,COVID-19 Collapse,0.0,0.0,81576.48866666667,0.0
+British Airways,Gaza-Israel Conflict,0.0,0.0,148495.15857142856,0.0
+British Airways,Pre-Iran Escalation,0.0,0.0,173745.3125,0.0
+British Airways,Pre-Pandemic Baseline,0.0,0.0,107962.52285714286,0.0
+British Airways,Recovery & Surge,0.0,0.0,125107.88777777778,0.0
+British Airways,Stabilisation,0.0,0.0,163965.99666666667,0.0
+British Airways,US-Iran War Conflict,767.25,3041.995,155871.54499999998,1.0
+British Airways,Ukraine War Shock,0.0,0.0,185866.186,0.0
+Cathay Pacific,COVID-19 Collapse,0.0,0.0,154751.36466666666,0.0
+Cathay Pacific,Gaza-Israel Conflict,0.0,0.0,265300.4257142857,0.0
+Cathay Pacific,Pre-Iran Escalation,0.0,0.0,304855.21166666667,0.0
+Cathay Pacific,Pre-Pandemic Baseline,0.0,0.0,189583.92857142858,0.0
+Cathay Pacific,Recovery & Surge,0.0,0.0,224895.40333333332,0.0
+Cathay Pacific,Stabilisation,0.0,0.0,277633.7211111111,0.0
+Cathay Pacific,US-Iran War Conflict,1218.0,4737.450000000001,504798.42999999993,1.0
+Cathay Pacific,Ukraine War Shock,0.0,0.0,312237.897,0.0
+EgyptAir,COVID-19 Collapse,0.0,0.0,36851.924,0.0
+EgyptAir,Gaza-Israel Conflict,0.0,0.0,63368.6,0.0
+EgyptAir,Pre-Iran Escalation,0.0,0.0,74002.29416666667,0.0
+EgyptAir,Pre-Pandemic Baseline,0.0,0.0,46873.21142857143,0.0
+EgyptAir,Recovery & Surge,0.0,0.0,57768.792222222226,0.0
+EgyptAir,Stabilisation,0.0,0.0,67922.82555555555,0.0
+EgyptAir,US-Iran War Conflict,0.0,0.0,54524.0,0.5
+EgyptAir,Ukraine War Shock,0.0,0.0,70848.334,0.1
+Emirates,COVID-19 Collapse,0.0,0.0,86643.23,0.0
+Emirates,Gaza-Israel Conflict,0.0,0.0,154588.15454545454,0.0
+Emirates,Pre-Iran Escalation,0.0,0.0,175563.5265909091,0.0
+Emirates,Pre-Pandemic Baseline,0.0,0.0,110131.71396103896,0.0
+Emirates,Recovery & Surge,0.0,0.0,136182.61727272728,0.0
+Emirates,Stabilisation,0.0,0.0,157962.49393939396,0.0
+Emirates,US-Iran War Conflict,747.8409090909091,2973.6240909090907,184834.09181818183,0.8636363636363636
+Emirates,Ukraine War Shock,0.0,0.0,171582.14872727272,0.06363636363636363
+Ethiopian Airlines,COVID-19 Collapse,0.0,0.0,50673.04266666667,0.0
+Ethiopian Airlines,Gaza-Israel Conflict,0.0,0.0,90123.15428571428,0.0
+Ethiopian Airlines,Pre-Iran Escalation,0.0,0.0,107341.43083333333,0.0
+Ethiopian Airlines,Pre-Pandemic Baseline,0.0,0.0,63770.111428571436,0.0
+Ethiopian Airlines,Recovery & Surge,0.0,0.0,88474.29555555555,0.0
+Ethiopian Airlines,Stabilisation,0.0,0.0,92306.10555555555,0.0
+Ethiopian Airlines,US-Iran War Conflict,588.25,2761.91,139833.9775,1.0
+Ethiopian Airlines,Ukraine War Shock,0.0,0.0,113789.46100000001,0.0
+Etihad Airways,COVID-19 Collapse,0.0,0.0,124164.43966666666,0.0
+Etihad Airways,Gaza-Israel Conflict,0.0,0.0,227498.96821428573,0.0
+Etihad Airways,Pre-Iran Escalation,0.0,0.0,259952.5575,0.0
+Etihad Airways,Pre-Pandemic Baseline,0.0,0.0,158208.38785714286,0.0
+Etihad Airways,Recovery & Surge,0.0,0.0,201500.04,0.0
+Etihad Airways,Stabilisation,0.0,0.0,239352.60166666668,0.0
+Etihad Airways,US-Iran War Conflict,1079.5,4107.15875,213197.08625,1.0
+Etihad Airways,Ukraine War Shock,0.0,0.0,261437.046,0.05
+Gulf Air,COVID-19 Collapse,0.0,0.0,77616.324,0.0
+Gulf Air,Gaza-Israel Conflict,0.0,0.0,137198.47785714286,0.0
+Gulf Air,Pre-Iran Escalation,0.0,0.0,170220.52416666667,0.0
+Gulf Air,Pre-Pandemic Baseline,0.0,0.0,102322.52214285715,0.0
+Gulf Air,Recovery & Surge,0.0,0.0,120023.27333333333,0.0
+Gulf Air,Stabilisation,0.0,0.0,154621.7277777778,0.0
+Gulf Air,US-Iran War Conflict,586.5,2326.65,275473.27,1.0
+Gulf Air,Ukraine War Shock,0.0,0.0,174664.83599999998,0.0
+KLM,COVID-19 Collapse,0.0,0.0,83085.42466666666,0.0
+KLM,Gaza-Israel Conflict,0.0,0.0,144547.3392857143,0.0
+KLM,Pre-Iran Escalation,0.0,0.0,170323.9325,0.0
+KLM,Pre-Pandemic Baseline,0.0,0.0,107938.50857142858,0.0
+KLM,Recovery & Surge,0.0,0.0,128359.1511111111,0.0
+KLM,Stabilisation,0.0,0.0,151399.04777777777,0.0
+KLM,US-Iran War Conflict,790.75,3172.755,213370.2075,1.0
+KLM,Ukraine War Shock,0.0,0.0,180353.875,0.0
+Korean Air,COVID-19 Collapse,0.0,0.0,105697.29199999999,0.0
+Korean Air,Gaza-Israel Conflict,0.0,0.0,184045.63999999998,0.0
+Korean Air,Pre-Iran Escalation,0.0,0.0,216335.04083333336,0.0
+Korean Air,Pre-Pandemic Baseline,0.0,0.0,131666.54857142858,0.0
+Korean Air,Recovery & Surge,0.0,0.0,165082.9322222222,0.0
+Korean Air,Stabilisation,0.0,0.0,191711.33666666667,0.0
+Korean Air,US-Iran War Conflict,1238.0,5311.3675,254995.07,1.0
+Korean Air,Ukraine War Shock,0.0,0.0,225111.96800000002,0.0
+Kuwait Airways,COVID-19 Collapse,0.0,0.0,69255.74,0.0
+Kuwait Airways,Gaza-Israel Conflict,0.0,0.0,123507.72714285714,0.0
+Kuwait Airways,Pre-Iran Escalation,0.0,0.0,149974.435,0.0
+Kuwait Airways,Pre-Pandemic Baseline,0.0,0.0,90209.33857142857,0.0
+Kuwait Airways,Recovery & Surge,0.0,0.0,109254.82222222222,0.0
+Kuwait Airways,Stabilisation,0.0,0.0,131056.61444444445,0.0
+Kuwait Airways,US-Iran War Conflict,810.0,3722.7675,250266.29,1.0
+Kuwait Airways,Ukraine War Shock,0.0,0.0,160586.40600000002,0.0
+Lufthansa,COVID-19 Collapse,0.0,0.0,76720.17333333334,0.0
+Lufthansa,Gaza-Israel Conflict,0.0,0.0,140267.47857142857,0.0
+Lufthansa,Pre-Iran Escalation,0.0,0.0,160050.3675,0.0
+Lufthansa,Pre-Pandemic Baseline,0.0,0.0,94033.68428571429,0.0
+Lufthansa,Recovery & Surge,0.0,0.0,121461.64777777779,0.0
+Lufthansa,Stabilisation,0.0,0.0,145248.26444444444,0.0
+Lufthansa,US-Iran War Conflict,817.0,3313.7025000000003,126725.1825,1.0
+Lufthansa,Ukraine War Shock,0.0,0.0,153508.389,0.1
+Oman Air,COVID-19 Collapse,0.0,0.0,86612.34933333333,0.0
+Oman Air,Gaza-Israel Conflict,0.0,0.0,156893.7142857143,0.0
+Oman Air,Pre-Iran Escalation,0.0,0.0,175499.6925,0.0
+Oman Air,Pre-Pandemic Baseline,0.0,0.0,110628.575,0.0
+Oman Air,Recovery & Surge,0.0,0.0,133761.66777777777,0.0
+Oman Air,Stabilisation,0.0,0.0,161337.1688888889,0.0
+Oman Air,US-Iran War Conflict,907.75,3864.295,165614.3,1.0
+Oman Air,Ukraine War Shock,0.0,0.0,187575.422,0.0
+Qatar Airways,COVID-19 Collapse,0.0,0.0,121954.379,0.0
+Qatar Airways,Gaza-Israel Conflict,0.0,0.0,209711.99660714288,0.0
+Qatar Airways,Pre-Iran Escalation,0.0,0.0,247109.80041666667,0.0
+Qatar Airways,Pre-Pandemic Baseline,0.0,0.0,153499.07357142857,0.0
+Qatar Airways,Recovery & Surge,0.0,0.0,187369.57666666666,0.0
+Qatar Airways,Stabilisation,0.0,0.0,225643.6513888889,0.0
+Qatar Airways,US-Iran War Conflict,1268.9375,5128.92875,263196.305,1.0
+Qatar Airways,Ukraine War Shock,0.0,0.0,242267.57525,0.025
+Saudia,COVID-19 Collapse,0.0,0.0,71775.94466666666,0.0
+Saudia,Gaza-Israel Conflict,0.0,0.0,128820.39214285715,0.0
+Saudia,Pre-Iran Escalation,0.0,0.0,145322.16333333333,0.0
+Saudia,Pre-Pandemic Baseline,0.0,0.0,92754.375,0.0
+Saudia,Recovery & Surge,0.0,0.0,114126.10555555555,0.0
+Saudia,Stabilisation,0.0,0.0,131189.2788888889,0.0
+Saudia,US-Iran War Conflict,836.75,3843.88,118995.62,1.0
+Saudia,Ukraine War Shock,0.0,0.0,138743.492,0.1
+Singapore Airlines,COVID-19 Collapse,0.0,0.0,165042.63333333333,0.0
+Singapore Airlines,Gaza-Israel Conflict,0.0,0.0,294683.09500000003,0.0
+Singapore Airlines,Pre-Iran Escalation,0.0,0.0,359805.56083333335,0.0
+Singapore Airlines,Pre-Pandemic Baseline,0.0,0.0,209685.7164285714,0.0
+Singapore Airlines,Recovery & Surge,0.0,0.0,268042.5,0.0
+Singapore Airlines,Stabilisation,0.0,0.0,311396.3066666667,0.0
+Singapore Airlines,US-Iran War Conflict,1229.25,4576.280000000001,441986.86,1.0
+Singapore Airlines,Ukraine War Shock,0.0,0.0,346968.12,0.0
+Thai Airways,COVID-19 Collapse,0.0,0.0,140594.73066666667,0.0
+Thai Airways,Gaza-Israel Conflict,0.0,0.0,267147.99571428576,0.0
+Thai Airways,Pre-Iran Escalation,0.0,0.0,298460.9725,0.0
+Thai Airways,Pre-Pandemic Baseline,0.0,0.0,183297.1564285714,0.0
+Thai Airways,Recovery & Surge,0.0,0.0,227855.80444444445,0.0
+Thai Airways,Stabilisation,0.0,0.0,259736.70444444442,0.0
+Thai Airways,US-Iran War Conflict,1600.0,6237.94,243000.8625,1.0
+Thai Airways,Ukraine War Shock,0.0,0.0,313216.882,0.0
+Turkish Airlines,COVID-19 Collapse,0.0,0.0,40353.602666666666,0.0
+Turkish Airlines,Gaza-Israel Conflict,0.0,0.0,73198.46142857142,0.0
+Turkish Airlines,Pre-Iran Escalation,0.0,0.0,84322.065,0.0
+Turkish Airlines,Pre-Pandemic Baseline,0.0,0.0,50553.05071428571,0.0
+Turkish Airlines,Recovery & Surge,0.0,0.0,65665.26777777779,0.0
+Turkish Airlines,Stabilisation,0.0,0.0,74032.81777777777,0.0
+Turkish Airlines,US-Iran War Conflict,0.0,0.0,100597.41500000001,0.25
+Turkish Airlines,Ukraine War Shock,0.0,0.0,76138.559,0.1
+United Airlines,COVID-19 Collapse,0.0,0.0,171974.23133333336,0.0
+United Airlines,Gaza-Israel Conflict,0.0,0.0,297758.52357142855,0.0
+United Airlines,Pre-Iran Escalation,0.0,0.0,374934.6275,0.0
+United Airlines,Pre-Pandemic Baseline,0.0,0.0,209703.50928571427,0.0
+United Airlines,Recovery & Surge,0.0,0.0,279352.88666666666,0.0
+United Airlines,Stabilisation,0.0,0.0,309972.49333333335,0.0
+United Airlines,US-Iran War Conflict,1709.5,6634.487499999999,449481.04500000004,1.0
+United Airlines,Ukraine War Shock,0.0,0.0,325751.83999999997,0.1
+flydubai,COVID-19 Collapse,0.0,0.0,28057.17,0.0
+flydubai,Gaza-Israel Conflict,0.0,0.0,50774.67142857143,0.0
+flydubai,Pre-Iran Escalation,0.0,0.0,58485.64083333333,0.0
+flydubai,Pre-Pandemic Baseline,0.0,0.0,37666.91785714286,0.0
+flydubai,Recovery & Surge,0.0,0.0,43350.317777777775,0.0
+flydubai,Stabilisation,0.0,0.0,53934.52333333334,0.0
+flydubai,US-Iran War Conflict,0.0,0.0,49483.990000000005,0.5
+flydubai,Ukraine War Shock,0.0,0.0,59954.344999999994,0.1
